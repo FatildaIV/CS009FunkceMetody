@@ -1,0 +1,6 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS009FunkceMetody\CS009FunkceMetody\bin\Debug\CS009FunkceMetody.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS009FunkceMetody\CS009FunkceMetody\bin\Debug\CS009FunkceMetody.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS009FunkceMetody\CS009FunkceMetody\bin\Debug\CS009FunkceMetody.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS009FunkceMetody\CS009FunkceMetody\obj\Debug\CS009FunkceMetody.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS009FunkceMetody\CS009FunkceMetody\obj\Debug\CS009FunkceMetody.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS009FunkceMetody\CS009FunkceMetody\obj\Debug\CS009FunkceMetody.pdb
